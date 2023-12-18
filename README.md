@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
-- 🌱 I’m currently learning **C,Python,C++**
+- 🌱 I’m currently learning **C,Python,C++,Html,Css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/duttaanirban?tab=repositories](https://github.com/duttaanirban?tab=repositories)
 
@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/anirban_ad8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirban_ad8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anirban-dutta-709861292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirban-dutta-709861292/" height="30" width="40" /></a>
 <a href="https://instagram.com/anirban__3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirban__3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/anirbandutta458/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anirbandutta458/" height="30" width="40" /></a>
