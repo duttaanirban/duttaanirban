@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/duttaanirban?tab=repositories](https://github.com/duttaanirban?tab=repositories)
 
-- 📫 How to reach me **duttaanirban@gmail.com**
+- 📫 How to reach me **duttaanirbanad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
