@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anirban Dutta</h1>
-<h3 align="center">nothing is impossible</h3>
 
 <img src=https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif>
 
