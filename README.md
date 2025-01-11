@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirban Dutta</h1>
 <h3 align="center">2nd Year CSE Undergrad</h3>
 
+<img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duttaanirban&label=Profile%20views&color=0e75b6&style=flat" alt="duttaanirban" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duttaanirban" alt="duttaanirban" /></a> </p>
