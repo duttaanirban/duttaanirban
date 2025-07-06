@@ -61,7 +61,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/anirban-dutta-709861292" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:anirbandutta458@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/anirban.dutta.750" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=61558570182469" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
   <a href="https://leetcode.com/u/AnirbanDutta_03/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/anirbandutta458" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"></a>
   <a href="https://x.com/Anirban_ad8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
