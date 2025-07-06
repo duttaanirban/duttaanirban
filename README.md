@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="Banner" width="100%" />
+  <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="Banner" width="50%" />
 </p>
 
 <h1 align="center">Hey there, I'm Anirban 👋</h1>
