@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/covers/images/065/615/131/large/manish-daksh-manish-daksh-vlcsnap-2023-07-31-21h03m51s462.jpg?1690817666" alt="Banner" width="100%" />
+  <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there, I'm Anirban 👋</h1>
