@@ -55,8 +55,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/duttaanirban/duttaanirban/output/snake.svg" alt="Snake animation" />
-
-###
