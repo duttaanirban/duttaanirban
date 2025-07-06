@@ -1,35 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anirban Dutta</h1>
-<h3 align="center">2nd Year CSE Undergrad</h3>
+<br clear="both">
 
-<p align="center"> <img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" /> </p>
+<h2 align="center">Hi 👋! My name is Anirban and I'm a III Year CSE Undergrad, from SRMIST passionate about web development and problem solving skills.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duttaanirban&label=Profile%20views&color=0e75b6&style=flat" alt="duttaanirban" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duttaanirban" alt="duttaanirban" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=duttaanirban&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duttaanirban&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/anirban_ad8" target="blank"><img src="https://img.shields.io/twitter/follow/anirban_ad8?logo=twitter&style=for-the-badge" alt="anirban_ad8" /></a> </p>
+###
 
-- 🌱 I’m currently learning **DSA with Java and Web Development**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 👨‍💻 All of my projects are available at [https://github.com/duttaanirban?tab=repositories](https://github.com/duttaanirban?tab=repositories)
+###
 
-- 📫 How to reach me **duttaanirban@gmail.com**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anirban_ad8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirban_ad8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anirban-dutta-709861292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirban-dutta-709861292/" height="30" width="40" /></a>
-<a href="https://instagram.com/anirban__3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirban__3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anirbandutta458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anirbandutta458" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/anirbandutta458/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anirbandutta458/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anirban2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anirban2005" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://x.com/Anirban_ad8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/anirban-dutta-709861292/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duttaanirban&show_icons=true&locale=en&layout=compact" alt="duttaanirban" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&locale=en" alt="duttaanirban" /></p>
+<img src="https://raw.githubusercontent.com/duttaanirban/duttaanirban/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&" alt="duttaanirban" /></p>
+###
