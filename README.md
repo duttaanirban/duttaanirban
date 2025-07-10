@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hey there, I'm Anirban 👋</h1>
-<p align="center">
+<h2 align="center">
   🚀 Full Stack Developer in the Making | 🎓 CSE Undergrad | 💡 Passionate Problem Solver <br>
-</p>
+</h2>
 
 ---
 
