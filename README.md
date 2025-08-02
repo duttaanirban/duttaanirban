@@ -2,6 +2,8 @@
   <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="Banner" width="50%" />
 </p>
 
+
+
 <h1 align="center">Hey there, I'm Anirban 👋</h1>
 <h3 align="center">
   🚀 Full Stack Developer in the Making | 🎓 CSE Undergrad | 💡 Passionate Problem Solver <br>
