@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student at SRMIST, Chennai  
-- 🌱 Currently learning **MERN Stack**, **Tailwind CSS**, and building real-world projects  
+- 🌱 Currently learning **MERN Stack**, **Flask** and building real-world projects  
 - 💡 Exploring web technologies, APIs, database systems, and automation tools  
 - 💬 Creating full stack apps like **Web Chat Platforms**, **Crowdfunding Systems**, and more  
 - 🤝 Open to collaborations, contributions, and connecting with like-minded devs  
