@@ -51,7 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=duttaanirban&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
