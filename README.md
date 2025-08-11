@@ -2,8 +2,6 @@
   <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="Banner" width="50%" />
 </p>
 
-
-
 <h1 align="center">Hey there, I'm Anirban 👋</h1>
 <h3 align="center">
   🚀 Full Stack Developer in the Making | 🎓 CSE Undergrad | 💡 Passionate Problem Solver <br>
@@ -40,6 +38,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
@@ -55,6 +56,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duttaanirban&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,5 +85,3 @@ If you like what I do, consider supporting me here:
 <a href="https://buymeacoffee.com/duttaanirban" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" />
 </a>
-
----
