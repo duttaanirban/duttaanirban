@@ -50,16 +50,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight&cache_seconds=60&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight&cache_seconds=60&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duttaanirban&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duttaanirban&theme=tokyo-night&v=1" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight&v=1" alt="GitHub Streak" />
 </p>
 
 ---
