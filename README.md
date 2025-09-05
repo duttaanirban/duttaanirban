@@ -51,9 +51,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight&cache_seconds=60&v=1" />
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duttaanirban&theme=tokyo-night&v=1" alt="GitHub Activity Graph" />
-</p>
+</p> 
+-->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight&v=1" alt="GitHub Streak" />
