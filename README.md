@@ -47,9 +47,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight&cache_seconds=60&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight&cache_seconds=60&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight" />
+</p>
+
+
 
 <!-- 
 <p align="center">
