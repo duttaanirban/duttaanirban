@@ -1,8 +1,12 @@
+
 <p align="center">
   <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="Banner" width="50%" />
 </p>
 
 <h1 align="center">Hey there, I'm Anirban 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=650&lines=Anirban+Dutta;Full+Stack+Developer+%7C+MERN+%26+Flask;Computer+Science+Undergraduate;Building+Scalable+Web+Applications;Open+to+Internships+%26+Collaborations" />
+</p>
 <h3 align="center">
   🚀 Full Stack Developer in the Making | 🎓 CSE Undergrad | 💡 Passionate Problem Solver <br>
 </h3>
@@ -47,26 +51,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duttaanirban&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaanirban&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=duttaanirban&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-<!-- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duttaanirban&theme=tokyo-night&v=1" alt="GitHub Activity Graph" />
-</p> 
--->
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duttaanirban&theme=tokyonight&v=1" alt="GitHub Streak" />
-</p>
 
 ---
 
