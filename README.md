@@ -17,8 +17,7 @@
 
 - 🎓 Computer Science Engineering student at SRMIST, Chennai  
 - 🌱 Currently learning **MERN Stack**, **Flask** and building real-world projects  
-- 💡 Exploring web technologies, APIs, database systems, and automation tools  
-- 💬 Creating full stack apps like **Ecommerce website**, **Expense Tracker**, and more  
+- 💡 Exploring web technologies, APIs, database systems, and automation tools    
 - 🤝 Open to collaborations, contributions, and connecting with like-minded devs  
 
 ---
